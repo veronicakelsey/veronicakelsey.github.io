@@ -5,13 +5,13 @@ author_profile: true
 ---
 {% include base_path %}
 
-## School of Mathematics and Statistics [St Andrews](https://www.st-andrews.ac.uk/maths/)
+## School of Mathematics and Statistics - [St Andrews](https://www.st-andrews.ac.uk/maths/)
 
 ### 2019
 
 MT2501 - Linear Mathematics
 
-## School of Mathematics [Manchester](https://www.maths.manchester.ac.uk)
+## School of Mathematics - [Manchester](https://www.maths.manchester.ac.uk)
 
 ### 2017-2018
 
