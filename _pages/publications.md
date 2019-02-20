@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Research Articles
+### Papers
 
-[2] The dimensions of inhomogeneous self-affine sets (with J.M. Fraser), [arXiv](https://arxiv.org/abs/1807.08694)  
-*submitted.*
+[2] The dimensions of inhomogeneous self-affine sets (with J.M. Fraser), [arXiv](http://eprints.maths.manchester.ac.uk/2590/1/ChamberGraphsAlmostBuildings%20%281%29.pdf)  
+**Innovations in Incidence Geometry** *to appear.*
 
-[1] On the dimension and measure of inhomogeneous attractors, [arXiv](https://arxiv.org/abs/1805.00887)  
-**Real Analysis Exchange** (to appear).
+[1] M_24-Orbits of Octad Triples, [EPrint](https://link.springer.com/article/10.1007%2Fs00373-018-1961-1)  
+**Graphs and Combinatorics** .
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -19,8 +19,8 @@ author_profile: true
 {% include base_path %}
 
 
-### Master's Theses
+### Master's Thesis
 
-[The order problem for natural and tropical matrix semigroups](https://stuartburrell.github.io/files/gapthesis.pdf)  
+[Mathieu Groups and Chamber Graphs](https://veronicakelsey.github.io/files/gapthesis.pdf)  
 
-[Sequential Monte Carlo in population dynamics](https://stuartburrell.github.io/files/smcthesis.pdf)  
+
