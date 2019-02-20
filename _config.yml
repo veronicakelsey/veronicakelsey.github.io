@@ -83,7 +83,7 @@ author:
   bio              : ""
   employer         : "Universiy of St Andrews"
   location         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=DJ74QYQAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6333-1750"
+  linkedin         : https://www.linkedin.com/in/veronica-kelsey-110a5a125/
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "burrell_stu"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
