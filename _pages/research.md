@@ -15,4 +15,5 @@ For my dissertation, I looked at Buildings, Chamber Graphs and Mathieu groups. <
 
 
 ## Undergraduate Research
+<img align="right" src="https://veronicakelsey.github.io/images/Labelled MOG.jpg" width="200">
 In the summer of my third year of undergraduate, I received a bursary from the London Mathematical Society to spend the summer researching. During this project, Peter Rowley and I wrote two papers. In one we calculated the chamber graphs of some GABs (Geometries that are Almost Buildings) and in the second we characterised the M_24-obits of octad triples
