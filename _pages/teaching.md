@@ -9,25 +9,27 @@ author_profile: true
 
 ### 2019
 
-Linear Algebra
+MT2501 - Linear Mathematics
 
 ## School of Mathematics [Manchester](https://www.maths.manchester.ac.uk)
 
 ### 2017-2018
 
-Foundations of Pure Mathematics
+MATH10111 - Foundations of Pure Mathematics
 
-Linear Algebra
+MATH10212 Linear Algebra B
 
 ### 2016-2017
 
-Sequences and Series
+MATH10101 - Set, Numbers and Functions
 
-Introduction to Statistics
+MATH10121 - Calculus and Vectors A
 
-Probability 1
+MATH10141 - Probability 1
 
-Set, Numbers and Functions
+MATH10202 - Linear Algebra A
 
-Linear Algebra
+MATH10242 - Sequences and Series
+
+MATH10282 - Introduction to Statistics
 
