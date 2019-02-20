@@ -8,7 +8,7 @@ author_profile: true
 During my PhD I hope to characterise when a maximal subgroup of a finite simple (or almost simple) group is a maximal co-clique in the group’s generating graph. I am currently focusing on the alternating and symmetric groups.
 
 
-![alt tag](https://veronicakelsey.github.io/images/VV.png)
+![alt tag](https://veronicakelsey.github.io/images/VV.png = 250x250)
 
 
 ## Masters Dissertation
