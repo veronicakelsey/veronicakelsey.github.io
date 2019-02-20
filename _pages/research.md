@@ -7,6 +7,8 @@ author_profile: true
 ## PhD Research
 During my PhD I hope to characterise when a maximal subgroup of a finite simple (or almost simple) group is a maximal co-clique in the group’s generating graph. I am currently focusing on the alternating and symmetric groups.
 
+![alt-text-1](VV.png "title-1") ![alt-text-2](Sym4Alt4.png "title-2")
+
 ## Masters Dissertation
 For my dissertation, I looked at Buildings, Chamber Graphs and Mathieu groups.
 Although the sporadic groups do not give rise to buildings, Ronan and Stroth constructed geometries for each of the sporadic groups that mimic the construction of buildings. I calculated the chamber graphs of these geometries for M_12, M_22, M_23 and M_24 in Magma, and investigated what "Building-like" behaviours their chamber graphs exhibited. 
