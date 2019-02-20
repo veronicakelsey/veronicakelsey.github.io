@@ -7,7 +7,9 @@ author_profile: true
 ## PhD Research
 During my PhD I hope to characterise when a maximal subgroup of a finite simple (or almost simple) group is a maximal co-clique in the group’s generating graph. I am currently focusing on the alternating and symmetric groups.
 
-<img src="images/VV.png" alt="hi" class="inline"/>
+
+![alt tag](https://veronicakelsey.github.io/images/VV.png)
+
 
 ## Masters Dissertation
 For my dissertation, I looked at Buildings, Chamber Graphs and Mathieu groups.
