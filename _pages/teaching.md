@@ -5,28 +5,29 @@ author_profile: true
 ---
 {% include base_path %}
 
-## [Centre for Academic and Professional Development](https://www.st-andrews.ac.uk/capod/)
-Mathematics and Statistics Tutor, 2016 - present.
+## School of Mathematics and Statistics [St Andrews](https://www.st-andrews.ac.uk/maths/)
 
-## [School of Mathematics and Statistics](https://www.st-andrews.ac.uk/maths/)
+### 2019
 
-### 2018 - 2019
-MT2502 Analysis, Tutor, Autumn.
+Linear Algebra
 
-MT2000 Python, Tutor, Autumn.
+## School of Mathematics [Manchester](https://www.maths.manchester.ac.uk)
 
-Math Base, Tutor, Autumn.
+### 2017-2018
 
-### 2017 - 2018
-MT1002 Mathematics, Computer Demonstrator, Spring.
+Foundations of Pure Mathematics
 
-MT1002 Mathematics, Tutor and Computer Demonstrator, Autumn.
+Linear Algebra
 
-### 2016 - 2017
-MT2508 Statistical Inference, Tutor, Spring.  
+### 2016-2017
 
-MT1003 Pure and Applied Mathematics, Tutor, Spring.
+Sequences and Series
 
-MT2000 Python, Tutor, Autumn.
+Introduction to Statistics
 
-MT2504 Combinatorics and Probability, Tutor, Autumn.
+Probability 1
+
+Set, Numbers and Functions
+
+Linear Algebra
+
