@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Masters Dissertation
-For my dissertation, I looked at Buildings, Chamber Graphs and Mathieu groups. Although the sporadic groups do not <img align="right" src="https://veronicakelsey.github.io/images/m12ink.png" width="120">  give rise to buildings, Ronan and Stroth constructed geometries for each of the sporadic groups that mimic the construction of buildings. I calculated the chamber graphs of these geometries for M_12, M_22, M_23 and M_24 in Magma, and investigated what "Building-like" behaviours their chamber graphs exhibited. I was also able to use more combinatorial approaches to calculate the chamber graphs of M_12 and M_23 by hand. The work on M_12 and M_22 had not appeared in the literature prior to this. 
+For my dissertation, I looked at Buildings, Chamber Graphs and Mathieu groups. Although the sporadic groups do not <img align="right" src="https://veronicakelsey.github.io/images/m12ink.png" width="120">  give rise to buildings, Ronan and Stroth constructed geometries for each of the sporadic groups that mimic the construction of buildings. I calculated the chamber graphs of these geometries for M_12, M_22, M_23 and M_24 in Magma, and investigated what "Building-like" behaviours their chamber graphs exhibited. I was also able to use more combinatorial approaches to calculate the chamber graphs of M_12 and M_22 by hand. The work on M_12 and M_22 had not appeared in the literature prior to this. 
 
 
 
