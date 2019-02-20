@@ -19,6 +19,7 @@ My current research is on maximal subgroups and generation of simple and almost 
 ## Contact details
 
 Room 120
+
 School of Mathematics and Statistics  
 The University of St Andrews  
 St Andrews  
