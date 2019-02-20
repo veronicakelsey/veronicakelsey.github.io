@@ -17,6 +17,6 @@ author_profile: true
 
 ### Master's Thesis
 
-[Mathieu Groups and Chamber Graphs](https://veronicakelsey.github.io/files/gapthesis.pdf)  
+[Mathieu Groups and Chamber Graphs](https://veronicakelsey.github.io/files/MathieuGroups.pdf)  
 
 
