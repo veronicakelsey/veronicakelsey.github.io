@@ -6,7 +6,7 @@ author_profile: true
 
 ### Papers
 
-The dimensions of inhomogeneous self-affine sets (with P.J. Rowley), [EPrint](http://eprints.maths.manchester.ac.uk/2590/1/ChamberGraphsAlmostBuildings%20%281%29.pdf)  
+Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), [EPrint](http://eprints.maths.manchester.ac.uk/2590/1/ChamberGraphsAlmostBuildings%20%281%29.pdf)  
 *Innovations in Incidence Geometry - to appear.*
 
 M_24-Orbits of Octad Triples (with P.J. Rowley), [Springer](https://link.springer.com/article/10.1007%2Fs00373-018-1961-1)  
