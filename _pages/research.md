@@ -5,9 +5,7 @@ author_profile: true
 ---
 
 ## PhD Research
-<img align="right" src="https://veronicakelsey.github.io/images/VV.png" width="160">  During my PhD I hope to characterise when a maximal subgroup of a finite simple (or almost simple) group is a maximal co-clique in the group’s generating graph. I am currently focusing on the alternating and symmetric groups. 
-
-
+<img align="right" src="https://veronicakelsey.github.io/images/VV.png" width="160">  During my PhD I am investiagting various properties of a group's generating graph.
 
 
 
