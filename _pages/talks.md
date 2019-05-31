@@ -4,6 +4,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+Octad Triples -
+*Edinburgh Mathematical Society Postgraduate Meeting, The Burn House, 2019*
+
 The Generating Graph and Maximal Cocliques -
 *Algebra & Combinatorics Seminar, University of St Andrews, 2019.*
 
