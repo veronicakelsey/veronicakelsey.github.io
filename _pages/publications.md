@@ -6,8 +6,8 @@ author_profile: true
 
 ### Papers
 
-Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), [EPrint](http://eprints.maths.manchester.ac.uk/2590/1/ChamberGraphsAlmostBuildings%20%281%29.pdf) , [MAGMA Files](https://veronicakelsey.github.io/files/MAGMA Files.zip) 
-
+Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), [EPrint](http://eprints.maths.manchester.ac.uk/2590/1/ChamberGraphsAlmostBuildings%20%281%29.pdf), 
+[MAGMA Files](https://veronicakelsey.github.io/files/MAGMA Files.zip) 
 *Innovations in Incidence Geometry - to appear.*
 
 
