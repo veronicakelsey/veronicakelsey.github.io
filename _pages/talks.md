@@ -4,6 +4,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+Maximal Cocliques in The Generating Graph of $S_n$ -
+*Post Graduate Group Theory Conference, Birmingham, 2019*
+
 Octad Triples -
 *Edinburgh Mathematical Society Postgraduate Meeting, The Burn House, 2019*
 
