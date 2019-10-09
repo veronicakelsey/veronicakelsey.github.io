@@ -8,7 +8,7 @@ author_profile: true
 
 Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), [EPrint](http://eprints.maths.manchester.ac.uk/2590/1/ChamberGraphsAlmostBuildings%20%281%29.pdf), 
 [MAGMA Files](https://veronicakelsey.github.io/files/MAGMA Files.zip)                      
-*Innovations in Incidence Geometry - to appear.*
+*Innovations in Incidence Geometry - 2019.*
 
 
 M_24-Orbits of Octad Triples (with P.J. Rowley), [Springer](https://link.springer.com/article/10.1007%2Fs00373-018-1961-1)  
