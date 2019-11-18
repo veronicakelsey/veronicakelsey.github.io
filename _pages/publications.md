@@ -6,7 +6,11 @@ author_profile: true
 
 ### Papers
 
-Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), [EPrint](http://eprints.maths.manchester.ac.uk/2590/1/ChamberGraphsAlmostBuildings%20%281%29.pdf), 
+
+A Note on Involution Centralizers in Black Box Groups (with P.J. Rowley), 
+*Journal of Group Theory - to appear*
+
+Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), [IIG](https://msp.org/iig/2019/17-3/p01.xhtml), 
 [MAGMA Files](https://veronicakelsey.github.io/files/MAGMA Files.zip)                      
 *Innovations in Incidence Geometry - 2019.*
 
