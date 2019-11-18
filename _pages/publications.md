@@ -7,8 +7,7 @@ author_profile: true
 ### Papers
 
 
-A Note on Involution Centralizers in Black Box Groups (with P.J. Rowley), 
-
+A Note on Involution Centralizers in Black Box Groups (with P.J. Rowley),                                                
 *Journal of Group Theory - to appear*
 
 Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), [IIG](https://msp.org/iig/2019/17-3/p01.xhtml), 
