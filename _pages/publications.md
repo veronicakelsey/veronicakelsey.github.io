@@ -7,8 +7,8 @@ author_profile: true
 ### Papers
 
 
-A Note on Involution Centralizers in Black Box Groups (with P.J. Rowley),                                                
-*Journal of Group Theory - to appear*
+A Note on Involution Centralizers in Black Box Groups (with P.J. Rowley), [De Gruyter](https://www.degruyter.com/view/j/jgth.ahead-of-print/jgth-2019-0128/jgth-2019-0128.xml)                                                
+*Journal of Group Theory - 2019*
 
 Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), [IIG](https://msp.org/iig/2019/17-3/p01.xhtml), [Files](https://veronicakelsey.github.io/files/MAGMA Files.zip)                      
 *Innovations in Incidence Geometry - 2019.*
