@@ -11,6 +11,10 @@ author_profile: true
 
 MT2501 - Linear Mathematics
 
+MT2504 - Combinatorics and Probability (cover)
+
+MT1003 - Pure and Applied Mathematics (cover)
+
 ## School of Mathematics - [Manchester](https://www.maths.manchester.ac.uk)
 
 ### 2017-2018
