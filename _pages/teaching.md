@@ -21,7 +21,7 @@ MT1003 - Pure and Applied Mathematics (cover)
 
 MATH10111 - Foundations of Pure Mathematics
 
-MATH10212 Linear Algebra B
+MATH10212 - Linear Algebra B
 
 ### 2016-2017
 
