@@ -3,6 +3,8 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+Group Theory and Post Quantum Safe Cryptography -
+*Postgraduate Interdisciplinary Mathematics Symposium, The Burn House, 2020.*
 
 Maximal Cocliques in The Generating Graph of $S_n$ -
 *Post Graduate Group Theory Conference, Birmingham, 2019*
