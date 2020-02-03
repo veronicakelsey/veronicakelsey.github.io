@@ -7,6 +7,10 @@ author_profile: true
 
 ## School of Mathematics and Statistics - [St Andrews](https://www.st-andrews.ac.uk/maths/)
 
+### 2020
+
+MT2505 - Abstract Algebra
+
 ### 2019
 
 MT2501 - Linear Mathematics
