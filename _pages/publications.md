@@ -17,7 +17,7 @@ M_24-Orbits of Octad Triples (with P.J. Rowley), [Springer](https://link.springe
 *Graphs and Combinatorics - 2018*.
 
 Chamber Graphs of Minimal Parabolic Sporadic Geometries (with P.J. Rowley),                                
-*submitted*
+*Innovations in Incidence Geometry - to appear.*
 
 Generating finite Coxeter groups with elements of the
 same order (with S. Hart and P.J. Rowley)
