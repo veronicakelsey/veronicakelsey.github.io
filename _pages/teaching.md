@@ -42,7 +42,7 @@ MATH10242 - Sequences and Series
 MATH10282 - Introduction to Statistics
 
 
-## Hand outs
+## Handouts
 
 ### MT2505
 
