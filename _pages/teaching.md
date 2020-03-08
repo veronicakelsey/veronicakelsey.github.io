@@ -53,6 +53,6 @@ Properties that can be inherited for groups and for rings/fields [Handout](https
 
 Basic proof layouts and techniques - originally intended for people studying Linear Maths, but potentially of use to any undergrad student [Handout](https://veronicakelsey.github.io/files/proofsrevision.pdf)
 
-An example of finding eigenvalues and eigenvectors for a 3x3 matrix with one Eval/vec pair left to student for practice. At the end of the handout is an example of how to factor degree 3 polynomimals [Handout](https://veronicakelsey.github.io/files/Evals-Evects.pdf)
+An example of finding eigenvalues and eigenvectors for a 3x3 matrix with one Eval/vec pair left to students for practice. At the end of the handout is an example of how to factor degree 3 polynomimals [Handout](https://veronicakelsey.github.io/files/Evals-Evects.pdf)
 
-A handout for a student curious about how to recover the ''standard'' formula for a linear transformation when the basis is non standard [Handout](https://veronicakelsey.github.io/files/changeofbasis.pdf)
+A handout orginally made for a student curious about how to recover the ''standard'' formula for a linear transformation when the basis is non standard [Handout](https://veronicakelsey.github.io/files/changeofbasis.pdf)
