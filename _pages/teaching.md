@@ -48,6 +48,7 @@ MATH10282 - Introduction to Statistics
 
 Properties that can be inherited for groups and for rings/fields [Handout](https://veronicakelsey.github.io/files/Inheritence.pdf)  
 
+A revision sheet on congruences [Handout](https://veronicakelsey.github.io/files/congreuncesrevision.pdf)  
 
 ### MT2501
 
