@@ -21,7 +21,7 @@ Chamber Graphs of Minimal Parabolic Sporadic Geometries (with P.J. Rowley),
 
 Generating finite Coxeter groups with elements of the
 same order (with S. Hart and P.J. Rowley)
-*submitted*
+*submitted* [MFO Preprint](https://publications.mfo.de/handle/mfo/3709)
 
 
 
