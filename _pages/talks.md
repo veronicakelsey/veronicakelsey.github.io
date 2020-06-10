@@ -3,6 +3,12 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+M_24 and Octad Triples -
+*Junior London Algebra Colloquium, Online due to Covid-19, 2020.*
+
+Maximal Subgroups and Maximal Cocliques -
+*York Algebra seminar, Online due to Covid-19, 2020.*
+
 Group Theory and Post Quantum Safe Cryptography -
 *Postgraduate Interdisciplinary Mathematics Symposium, The Burn House, 2020.*
 
