@@ -23,6 +23,9 @@ Generating finite Coxeter groups with elements of the
 same order (with S. Hart and P.J. Rowley)
 *submitted* [MFO Preprint](https://publications.mfo.de/handle/mfo/3709)
 
+Maximal Cocliques in the Generating Graphs of Alternating and Symmetric Groups (with C.M. Roney-Dougal)
+*submitted*
+
 
 
 ### Master's Thesis
