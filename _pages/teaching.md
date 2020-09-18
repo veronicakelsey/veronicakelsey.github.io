@@ -44,6 +44,8 @@ MATH10282 - Introduction to Statistics
 
 ## Handouts
 
+Sigma/summation notation revision [Handout](https://veronicakelsey.github.io/files/Sigma.pdf)  
+
 ### MT2505
 
 Properties that can be inherited for groups and for rings/fields [Handout](https://veronicakelsey.github.io/files/Inheritence.pdf)  
