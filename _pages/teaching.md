@@ -44,7 +44,7 @@ MATH10282 - Introduction to Statistics
 
 ## Handouts
 
-Sigma/summation notation revision [Handout](https://veronicakelsey.github.io/files/Sigma.pdf)  
+Sigma/summation notation revision [Handout](https://veronicakelsey.github.io/files/sigma.pdf)  
 
 ### MT2505
 
