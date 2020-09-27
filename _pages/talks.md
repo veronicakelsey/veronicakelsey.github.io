@@ -3,6 +3,9 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+Base Sizes of Permutation Groups
+*North British Semigroups and Applications Network, 2020*
+
 M_24 and Octad Triples -
 *Junior London Algebra Colloquium, Online due to Covid-19, 2020.*
 
