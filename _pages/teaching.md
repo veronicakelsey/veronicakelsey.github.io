@@ -30,7 +30,7 @@ An example of finding eigenvalues and eigenvectors for a 3x3 matrix with one Eva
 A handout orginally made for a student curious about how to recover the ''standard'' formula for a linear transformation when the basis is non standard [Handout](https://veronicakelsey.github.io/files/changeofbasis.pdf)
 
 
-## School of Mathematics and Statistics - [St Andrews](https://www.st-andrews.ac.uk/maths/)
+## Teaching Experience -  School of Mathematics and Statistics - [St Andrews](https://www.st-andrews.ac.uk/maths/)
 
 ### 2020
 
@@ -44,7 +44,7 @@ MT2504 - Combinatorics and Probability (cover)
 
 MT1003 - Pure and Applied Mathematics (cover)
 
-## School of Mathematics - [Manchester](https://www.maths.manchester.ac.uk)
+## Teaching Experience - School of Mathematics - [Manchester](https://www.maths.manchester.ac.uk)
 
 ### 2017-2018
 
