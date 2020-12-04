@@ -26,6 +26,12 @@ same order (with S. Hart and P.J. Rowley),
 Maximal Cocliques in the Generating Graphs of Alternating and Symmetric Groups (with C.M. Roney-Dougal),
 *submitted* [arXiv](https://arxiv.org/abs/2007.12021)
 
+A Note on the Rank 5 Polytopes of $M_{24}$ (with R. Nicolaides and P.J.Rowley),
+*submitted*
+
+Imprimitive Maximal Cocliques in the Generating Graphs of the Alternating and Symmetric Groups (with C. Roney-Dougal),
+*Manuscript*
+
 
 
 ### Master's Thesis
