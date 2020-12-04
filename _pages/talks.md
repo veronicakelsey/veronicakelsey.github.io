@@ -3,6 +3,9 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+Q&A with Female PhD Students - 
+*Piscopia Society, 2020* (Piscopia is a student led society which aims to encourage female and non-binary participation in postgraduate research in the mathematical sciences.)
+
 Base Sizes of Permutation Groups -
 *North British Semigroups and Applications Network, 2020*
 
