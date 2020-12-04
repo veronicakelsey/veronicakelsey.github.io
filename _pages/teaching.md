@@ -13,6 +13,8 @@ Sigma/summation notation revision [Handout](https://veronicakelsey.github.io/fil
 
 Inclusion-Exclusion - examples for n=2 and 3 and the proof of the general case [Handout](https://veronicakelsey.github.io/files/inclusionexclusion.pdf) 
 
+Revision session - covering double counting, bijections, derangements and past exam questions [Handout](https://veronicakelsey.github.io/files/Note 2 Dec 2020.pdf) 
+
 ### MT2505
 
 Properties that can be inherited for groups and for rings/fields [Handout](https://veronicakelsey.github.io/files/Inheritence.pdf)  
