@@ -15,7 +15,7 @@ Inclusion-Exclusion - examples for n=2 and 3 and the proof of the general case [
 
 Revision session - covering double counting, bijections, derangements and past exam questions [Handout](https://veronicakelsey.github.io/files/Note 2 Dec 2020.pdf)
 
-Revision session - covering recursive formulas and fibonacci numbers (specifcally focusing on guessing the "general term", past exam questions and the staircase method) [Handout](https://veronicakelsey.github.io/files/fib.pdf) 
+Revision session - covering recursive formulas and fibonacci numbers (specifically focusing on guessing the "general term", past exam questions and the staircase method) [Handout](https://veronicakelsey.github.io/files/fib.pdf) 
 
 ### MT2505
 
