@@ -4,8 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
+
 ## PhD Research
-<img align="right" src="https://veronicakelsey.github.io/images/VV.png" width="160">  During my PhD I have investigated maximal cocliques in the generating graphs of the symmetric and alternating groups. I am currently working on various group statistics for almost simple groups. 
+<img align="right" src="https://veronicakelsey.github.io/images/VV.png" width="160">  During my PhD I have investigated maximal cocliques in the generating graphs of the symmetric and alternating groups. I am currently working on various group statistics for almost simple groups.
 
 
 
