@@ -6,6 +6,9 @@ author_profile: true
 {% include base_path %}
 
 ## Handouts
+These handouts were made after requested by students in my tutorial groups, but some of them might be of help even if you aren't on these specfic courses. 
+
+If you have any requests for handouts on additional topics feel free to get in contact!
 
 ### MT2504
 
