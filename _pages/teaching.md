@@ -6,11 +6,19 @@ author_profile: true
 {% include base_path %}
 
 ## Handouts
+
+### For Parents Home Schooling
+
+A hand out on symmetry - probably best for primary school children. [Handout](https://veronicakelsey.github.io/files/sym.pdf) 
+
+A hand out on mazes, minotaurs and maths - best for older secondary school or college students. [Handout](https://veronicakelsey.github.io/files/MMM.pdf) 
+
+
+### For University Students
+
 These handouts were made after requested by students in my tutorial groups, but some of them might be of help even if you aren't on these specfic courses. 
 
-If you have any requests for handouts on additional topics feel free to get in contact!
-
-### MT2504
+#### MT2504
 
 Sigma/summation notation revision [Handout](https://veronicakelsey.github.io/files/sigma.pdf) 
 
@@ -20,13 +28,13 @@ Revision session - covering double counting, bijections, derangements and past e
 
 Revision session - covering recursive formulas and fibonacci numbers (specifically focusing on guessing the "general term", past exam questions and the staircase method) [Handout](https://veronicakelsey.github.io/files/fib.pdf) 
 
-### MT2505
+#### MT2505
 
 Properties that can be inherited for groups and for rings/fields [Handout](https://veronicakelsey.github.io/files/Inheritence.pdf)  
 
 A revision sheet on congruences [Handout](https://veronicakelsey.github.io/files/congruencesrevision.pdf)  
 
-### MT2501
+#### MT2501
 
 Basic proof layouts and techniques - originally intended for people studying Linear Maths, but potentially of use to any undergrad student [Handout](https://veronicakelsey.github.io/files/proofsrevision.pdf)
 
