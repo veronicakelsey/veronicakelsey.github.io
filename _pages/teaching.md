@@ -12,7 +12,7 @@ author_profile: true
 A hand out on symmetry - probably best for primary school children. [Handout](https://veronicakelsey.github.io/files/sym.pdf) 
 
 A hand out on mazes, minotaurs and maths - best for older secondary school or college students (or younger students with an adult helper). [Handout](https://veronicakelsey.github.io/files/MMM.pdf) 
-
+(Source - https://plus.maths.org/content/maths-amazes)
 
 ### For University Students
 
