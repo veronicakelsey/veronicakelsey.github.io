@@ -11,6 +11,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+    
+  - title: "Handouts"
+    url: /handouts/
 
   - title: "CV"
     url: /files/cv.pdf 
