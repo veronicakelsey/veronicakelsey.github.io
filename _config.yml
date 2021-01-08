@@ -181,9 +181,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  handouts:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -240,14 +237,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  # _handouts
-  - scope:
-      path: ""
-      type: hanouts
-    values:
-      layout: single
       author_profile: true
       share: true
 
