@@ -1,5 +1,5 @@
 ---
-title: "Hanouts"
+title: "Handouts"
 permalink: /handouts/
 author_profile: true
 ---
