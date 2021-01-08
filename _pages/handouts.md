@@ -7,9 +7,9 @@ author_profile: true
 
 ### For Parents Home Schooling
 
-A hand out on symmetry - designed for primary school children. [Handout](https://veronicakelsey.github.io/files/sym.pdf) 
+A handout on symmetry - designed for primary school children. [Handout](https://veronicakelsey.github.io/files/sym.pdf) 
 
-A hand out on mazes, minotaurs and maths - designed for older secondary school/college students (or younger students with an adult helper). [Handout](https://veronicakelsey.github.io/files/MMM.pdf) 
+A handout on mazes, minotaurs and maths - designed for older secondary school/college students (or younger students with an adult helper). [Handout](https://veronicakelsey.github.io/files/MMM.pdf) 
 (Source - https://plus.maths.org/content/maths-amazes)
 
 ### For University Students
