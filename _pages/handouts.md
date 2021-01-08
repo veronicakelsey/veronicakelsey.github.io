@@ -1,5 +1,3 @@
-# Handouts
-
 ### For Parents Home Schooling
 
 A hand out on symmetry - probably best for primary school children. [Handout](https://veronicakelsey.github.io/files/sym.pdf) 
