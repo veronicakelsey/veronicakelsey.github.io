@@ -7,7 +7,13 @@ author_profile: true
 
 ## Teaching Experience -  School of Mathematics and Statistics - [St Andrews](https://www.st-andrews.ac.uk/maths/)
 
+### 2021
+
+MT2501 - Linear Mathematics
+
 ### 2020
+
+MT2504 - Combinatorics and Probability
 
 MT2505 - Abstract Algebra
 
