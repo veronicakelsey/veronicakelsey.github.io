@@ -3,6 +3,9 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+An Introduction to Group Statistics
+*Birkbeck mathematics seminar, 2020*
+
 Relational Complexity of Primitive Permutation Groups -
 *Functor Categories for Groups meeting, 2020*
 
