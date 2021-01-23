@@ -4,10 +4,13 @@ permalink: /talks/
 author_profile: true
 ---
 An Introduction to Group Statistics
-*Birkbeck mathematics seminar, 2020*
+*Postgraduate Interdisciplinary Mathematics Symposium, The Burn House, 2021.*
+
+Numerical Invariants of Permutation Groups
+*Birkbeck mathematics seminar, 2021*
 
 Relational Complexity of Primitive Permutation Groups -
-*Functor Categories for Groups meeting, 2020*
+*Functor Categories for Groups meeting, 2021*
 
 Q&A with Female PhD Students - 
 *Piscopia Society, 2020* (Piscopia is a student led society which aims to encourage female and non-binary participation in postgraduate research in the mathematical sciences.)
