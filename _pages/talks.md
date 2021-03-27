@@ -3,10 +3,10 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-An Introduction to Group Statistics
+An Introduction to Group Statistics -
 *Postgraduate Interdisciplinary Mathematics Symposium, The Burn House, 2021.*
 
-Numerical Invariants of Permutation Groups
+Numerical Invariants of Permutation Groups -
 *Birkbeck mathematics seminar, 2021*
 
 Relational Complexity of Primitive Permutation Groups -
