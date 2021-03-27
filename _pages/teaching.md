@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2021
 
-MT2501 - Linear Mathematics
+MT2505 - Abstract Algebra
 
 ### 2020
 
