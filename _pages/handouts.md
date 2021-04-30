@@ -28,6 +28,8 @@ Revision session - covering recursive formulas and fibonacci numbers (specifical
 
 #### MT2505
 
+Revision session 2020 - Functions, Congruences & Normal subgroups [Handout](https://veronicakelsey.github.io/files/Revision Session.pdf) 
+
 Properties that can be inherited for groups and for rings/fields [Handout](https://veronicakelsey.github.io/files/Inheritence.pdf)  
 
 A revision sheet on congruences [Handout](https://veronicakelsey.github.io/files/congruencesrevision.pdf)  
