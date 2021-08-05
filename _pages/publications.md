@@ -17,7 +17,7 @@ M_24-Orbits of Octad Triples (with P.J. Rowley), [Springer](https://link.springe
 *Graphs and Combinatorics - 2018*.
 
 Chamber Graphs of Minimal Parabolic Sporadic Geometries (with P.J. Rowley),                                
-*Innova- tions in Incidence Geometry 18 no. 1 (2020), 25–37..*
+*Innovations in Incidence Geometry 18 no. 1 (2020), 25–37..*
 
 On relational complexity and base size of finite primitive groups (with C.M. Roney-Dougal),
 *submitted* [arXiv](https://arxiv.org/abs/2107.14208)
