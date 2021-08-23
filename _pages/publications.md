@@ -27,7 +27,7 @@ same order (with S. Hart and P.J. Rowley),
 *submitted* [MFO Preprint](https://publications.mfo.de/handle/mfo/3709)
 
 Maximal Cocliques in the Generating Graphs of Alternating and Symmetric Groups (with C.M. Roney-Dougal),
-*submitted* [arXiv](https://arxiv.org/abs/2007.12021)
+*submitted* [arXiv](https://arxiv.org/abs/2007.12021) [Files](https://veronicakelsey.github.io/files/MaxCocliquesCode.zip)
 
 A Note on the Rank 5 Polytopes of $M_{24}$ (with R. Nicolaides and P.J.Rowley),
 *submitted*
