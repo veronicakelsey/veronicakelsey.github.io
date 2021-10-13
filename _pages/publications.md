@@ -20,7 +20,6 @@ Chamber Graphs of Minimal Parabolic Sporadic Geometries (with P.J. Rowley),
 *Innovations in Incidence Geometry - 2020*
 
 Generating finite Coxeter groups with elements of the same order (with S. Hart and P.J. Rowley),
-
 *Turkish Journal of Mathematics - 2021* 
 
 On relational complexity and base size of finite primitive groups (with C.M. Roney-Dougal),
