@@ -14,13 +14,13 @@ Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), 
 *Innovations in Incidence Geometry - 2019.*
 
 M_24-Orbits of Octad Triples (with P.J. Rowley), [Springer](https://link.springer.com/article/10.1007%2Fs00373-018-1961-1)  
-*Graphs and Combinatorics - 2018*.
+*Graphs and Combinatorics - 2018.*
 
 Chamber Graphs of Minimal Parabolic Sporadic Geometries (with P.J. Rowley),                                
-*Innovations in Incidence Geometry - 2020*
+*Innovations in Incidence Geometry - 2020.*
 
 Generating finite Coxeter groups with elements of the same order (with S. Hart and P.J. Rowley),
-*Turkish Journal of Mathematics - 2021* 
+*Turkish Journal of Mathematics - 2021.*
 
 On relational complexity and base size of finite primitive groups (with C.M. Roney-Dougal),
 *submitted* [arXiv](https://arxiv.org/abs/2107.14208)
