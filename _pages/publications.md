@@ -19,12 +19,12 @@ M_24-Orbits of Octad Triples (with P.J. Rowley), [Springer](https://link.springe
 Chamber Graphs of Minimal Parabolic Sporadic Geometries (with P.J. Rowley),                                
 *Innovations in Incidence Geometry 18 no. 1 (2020), 25–37..*
 
-On relational complexity and base size of finite primitive groups (with C.M. Roney-Dougal),
-*submitted* [arXiv](https://arxiv.org/abs/2107.14208)
-
 Generating finite Coxeter groups with elements of the
 same order (with S. Hart and P.J. Rowley),
-*submitted* [MFO Preprint](https://publications.mfo.de/handle/mfo/3709)
+*Turkish Journal of Mathematics 2021* [Download link](http://dx.doi.org/10.3906/mat-2108-88)
+
+On relational complexity and base size of finite primitive groups (with C.M. Roney-Dougal),
+*submitted* [arXiv](https://arxiv.org/abs/2107.14208)
 
 Maximal Cocliques in the Generating Graphs of Alternating and Symmetric Groups (with C.M. Roney-Dougal),
 *submitted* [arXiv](https://arxiv.org/abs/2007.12021) [Files](https://veronicakelsey.github.io/files/MaxCocliquesCode.zip)
