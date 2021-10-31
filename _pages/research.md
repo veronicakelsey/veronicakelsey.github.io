@@ -3,6 +3,9 @@ title: "My Research"
 permalink: /research/
 author_profile: true
 ---
+## Ongoing Research
+I'm currently interested in various numerical invaraints of permutation groups. In particualr maximal irredundant base size and relational complexity. 
+
 
 
 ## PhD Research
