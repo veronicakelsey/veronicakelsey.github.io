@@ -13,7 +13,7 @@ I am currently a research fellow at the University of Manchester [Department of 
 
 I have recently submitted my thesis at the University of St Andrews, where I was part of the [algebra research group](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Algebra/index.php).
 
-My current research is on generation and group statistics of simple and almost simple groups. 
+My current research is on numerical invariants and generation of simple and almost simple groups. 
 
 
 
