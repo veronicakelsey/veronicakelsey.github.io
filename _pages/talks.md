@@ -3,6 +3,16 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+
+Maximal Irredundant Base Size and Relational Complexity 
+*Birmingham Algebra Seminar, 2021*
+
+Base Size and Relational Complexity 
+*Manchester Algebra Seminar, 2021*
+
+Relational Complexity in Permutation Groups -
+*Bristol Junior Algebra Colloquium, 2021*
+
 An Introduction to Group Statistics -
 *Postgraduate Interdisciplinary Mathematics Symposium, The Burn House, 2021.*
 
