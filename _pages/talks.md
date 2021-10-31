@@ -4,10 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-Maximal Irredundant Base Size and Relational Complexity 
+Maximal Irredundant Base Size and Relational Complexity -
 *Birmingham Algebra Seminar, 2021*
 
-Base Size and Relational Complexity 
+Base Size and Relational Complexity -
 *Manchester Algebra Seminar, 2021*
 
 Relational Complexity in Permutation Groups -
