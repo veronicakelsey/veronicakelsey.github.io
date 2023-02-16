@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 Generating Graphs -
-Piscopia Society PiWorks seminar, 2022*
+*Piscopia Society PiWorks seminar, 2022*
 
 A Survey of Base Size - 
 *Young Group Theorists Workshop, 2022*
