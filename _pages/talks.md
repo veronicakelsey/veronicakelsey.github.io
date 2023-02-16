@@ -3,6 +3,17 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+Generating Graphs -
+Piscopia Society PiWorks seminar, 2022*
+
+A Survey of Base Size - 
+*Young Group Theorists Workshop, 2022*
+
+Relational Complexity -
+*St Andrews Pure Colloquium, 2022*
+
+Group Statistics -
+*Bristol Junior Algebra Colloquium, 2021*
 
 Maximal Irredundant Base Size and Relational Complexity -
 *Birmingham Algebra Seminar, 2021*
