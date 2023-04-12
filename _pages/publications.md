@@ -34,7 +34,6 @@ Imprimitive Maximal Cocliques in the Generating Graphs of the Alternating and Sy
 *Manuscript*
 
 
-### Code for PhD Thesis - [Zip Download](https://veronicakelsey.github.io/files/thesis-code.zip) 
 
 ### Master's Thesis - [Mathieu Groups and Chamber Graphs](https://veronicakelsey.github.io/files/MathieuGroups.pdf)  
 
