@@ -19,4 +19,4 @@ My current research is on numerical invariants and generation of simple and almo
 
 ## Contact details
  
-Email: veronicakelsey@live.com
+Email: veronica.kelsey@manchester.ac.uk
