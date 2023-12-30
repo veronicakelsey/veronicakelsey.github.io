@@ -11,7 +11,7 @@ redirect_from:
 
 I am a research fellow at the University of Manchester [Department of mathematics](https://www.maths.manchester.ac.uk).
 
-I completed my PhD at the University of St Andrews, where I was part of the [algebra research group](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Algebra/index.php).
+I completed my PhD at the University of St Andrews, where I was part of the [algebra & combinatorics research group](https://algebra-combinatorics.wp.st-andrews.ac.uk).
 
 My current research is on numerical invariants and generation of simple and almost simple groups. 
 
