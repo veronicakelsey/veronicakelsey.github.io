@@ -9,7 +9,7 @@ redirect_from:
   -
 ---
 
-I am currently a research fellow at the University of Manchester [Department of mathematics](https://www.maths.manchester.ac.uk).
+I am a research fellow at the University of Manchester [Department of mathematics](https://www.maths.manchester.ac.uk).
 
 I have completed my PhD at the University of St Andrews, where I was part of the [algebra research group](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Algebra/index.php).
 
