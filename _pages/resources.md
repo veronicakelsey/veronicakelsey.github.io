@@ -9,7 +9,7 @@ author_profile: true
 
 Mazes, Minotaurs and Maths - designed for older secondary school/college students (or younger students with an adult helper). <br>
 [Handout](https://veronicakelsey.github.io/files/MazesResource.pdf) Background info and a worked example <br>
-[Have a go](https://veronicakelsey.github.io/files/MazesProblems.pdf) Some problems to have a go at <br>
+[Worksheet](https://veronicakelsey.github.io/files/MazesProblems.pdf) Some problems to have a go at <br>
 (Source - https://plus.maths.org/content/maths-amazes)
 
 
