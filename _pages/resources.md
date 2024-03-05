@@ -8,11 +8,16 @@ author_profile: true
 ### For School Kids
 
 Mazes, Minotaurs and Maths - designed for older secondary school/college students (or younger students with an adult helper). 
+
 [Handout](https://veronicakelsey.github.io/files/MazesResource.pdf) 
+
 [Have a go](https://veronicakelsey.github.io/files/MazesProblems.pdf)
+
 (Source - https://plus.maths.org/content/maths-amazes)
 
+
 Symmetry - I made this quickly to help a family friend with homeschooling during lockdown. 
+
 [Handout](https://veronicakelsey.github.io/files/sym.pdf) 
 
 
