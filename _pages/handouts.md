@@ -1,5 +1,5 @@
 ---
-title: "Handouts"
+title: "Resources"
 permalink: /handouts/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 
 Symmetry - designed for primary school children. [Handout](https://veronicakelsey.github.io/files/sym.pdf) 
 
-Mazes, Minotaurs and Maths - designed for older secondary school/college students (or younger students with an adult helper). [Handout](https://veronicakelsey.github.io/files/MMM.pdf) 
+Mazes, Minotaurs and Maths - designed for older secondary school/college students (or younger students with an adult helper). [Handout](https://veronicakelsey.github.io/files/MazesResource.pdf) [Have a go](https://veronicakelsey.github.io/files/MazesProblems.pdf)
 (Source - https://plus.maths.org/content/maths-amazes)
 
 ### For University Students
