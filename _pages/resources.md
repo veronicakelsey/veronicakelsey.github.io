@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-permalink: /handouts/
+permalink: /resources/
 author_profile: true
 ---
 
