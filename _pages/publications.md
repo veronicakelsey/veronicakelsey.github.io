@@ -68,7 +68,7 @@ with S. Hart and P.J. Rowley <br>
 
 Imprimitive Maximal Cocliques in the Generating Graphs of the Alternating and Symmetric Groups <br>
 with C. Roney-Dougal <br>
-*In prep... potentially indefeinetly*
+*In prep... potentially indefinitely*
 
 ### PhD Thesis - Base size and generating graphs of primitive permutation groups
 
