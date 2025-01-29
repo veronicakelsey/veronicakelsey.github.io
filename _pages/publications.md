@@ -58,7 +58,7 @@ with P.J. Rowley <br>
 
 ### Submitted/in prep
 
-P(q)-Groupoids of Conway Type <br>
+$\mathbb{P}(q)$-Groupoids of Conway Type <br>
 with P.J. Rowley <br>
 *submitted*
 
