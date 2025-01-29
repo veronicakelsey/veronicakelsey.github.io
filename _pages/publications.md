@@ -48,7 +48,7 @@ with P.J. Rowley <br>
 
 Chamber Graphs of some Geometries that are Almost Buildings <br>
 with P.J. Rowley  <br>
-[Files](https://veronicakelsey.github.io/files/MAGMA Files.zip)   <br>                   
+[Files](https://veronicakelsey.github.io/files/MAGMA Files.zip)   <br> 
 *Innovations in Incidence Geometry - 2019.*
 
 M_24-Orbits of Octad Triples <br>
