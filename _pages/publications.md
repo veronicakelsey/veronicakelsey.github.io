@@ -39,11 +39,11 @@ with S. Hart and P.J. Rowley <br>
 *Turkish Journal of Mathematics - 2021.*
 
 Chamber Graphs of Minimal Parabolic Sporadic Geometries <br>
-with P.J. Rowley <br>                              
+with P.J. Rowley <br>
 *Innovations in Incidence Geometry - 2020.*
 
 A Note on Involution Centralizers in Black Box Groups <br>
-with P.J. Rowley <br>                                               
+with P.J. Rowley <br>
 *Journal of Group Theory - 2019*
 
 Chamber Graphs of some Geometries that are Almost Buildings <br>
