@@ -6,32 +6,68 @@ author_profile: true
 
 ### Papers
 
-On relational complexity and base size of finite primitive groups (with C.M. Roney-Dougal),
-*Pacific J. Math. - 2022.* [arXiv](https://arxiv.org/abs/2107.14208)
+Root cycles in Coxeter groups
+with S. Hart and P.J. Rowley
+*J. Group Theory - 2024*
 
-Maximal Cocliques in the Generating Graphs of Alternating and Symmetric Groups (with C.M. Roney-Dougal),
-*Combinatorial Theory - 2022.* [arXiv](https://arxiv.org/abs/2007.12021) [Files](https://veronicakelsey.github.io/files/MaxCocliquesCode.zip)
+The relational complexity of linear groups acting on subspaces
+with S.D. Freedman and C.M. Roney-Dougal
+*J. Group Theory - 2024*
 
-Generating finite Coxeter groups with elements of the same order (with S. Hart and P.J. Rowley),
+A note on the rank 5 polytopes of  M24 
+with R. Nicolaides and P.J. Rowley
+*Innov. Incidence Geom. - 2024*
+
+On the rank 5 polytopes of the Higman-Sims simple group
+with R. Nicolaides and P.J. Rowley
+*Innov. Incidence Geom. - 2022*
+
+The relational complexity of linear groups acting on subspaces
+with S.D. Freedman and C.M. Roney-Dougal
+*J. Group Theory - 2024*
+
+On relational complexity and base size of finite primitive groups 
+with C.M. Roney-Dougal
+*Pacific J. Math. - 2022.* 
+
+Maximal Cocliques in the Generating Graphs of Alternating and Symmetric Groups
+with C.M. Roney-Dougal
+*Combinatorial Theory - 2022.* 
+
+Generating finite Coxeter groups with elements of the same order
+with S. Hart and P.J. Rowley
 *Turkish Journal of Mathematics - 2021.*
 
-Chamber Graphs of Minimal Parabolic Sporadic Geometries (with P.J. Rowley),                                
+Chamber Graphs of Minimal Parabolic Sporadic Geometries
+with P.J. Rowley                              
 *Innovations in Incidence Geometry - 2020.*
 
-A Note on Involution Centralizers in Black Box Groups (with P.J. Rowley), [De Gruyter](https://www.degruyter.com/view/j/jgth.ahead-of-print/jgth-2019-0128/jgth-2019-0128.xml)                                                
+A Note on Involution Centralizers in Black Box Groups
+with P.J. Rowley                                              
 *Journal of Group Theory - 2019*
 
-Chamber Graphs of some Geometries that are Almost Buildings (with P.J. Rowley), [IIG](https://msp.org/iig/2019/17-3/p01.xhtml), [Files](https://veronicakelsey.github.io/files/MAGMA Files.zip)                      
+Chamber Graphs of some Geometries that are Almost Buildings 
+with P.J. Rowley  
+[Files](https://veronicakelsey.github.io/files/MAGMA Files.zip)                      
 *Innovations in Incidence Geometry - 2019.*
 
-M_24-Orbits of Octad Triples (with P.J. Rowley), [Springer](https://link.springer.com/article/10.1007%2Fs00373-018-1961-1)  
+M_24-Orbits of Octad Triples 
+with P.J. Rowley 
 *Graphs and Combinatorics - 2018.*
 
-A Note on the Rank 5 Polytopes of $M_{24}$ (with R. Nicolaides and P.J.Rowley),
+
+
+P(q)-Groupoids of Conway Type
+with P.J. Rowley 
 *submitted*
 
-Imprimitive Maximal Cocliques in the Generating Graphs of the Alternating and Symmetric Groups (with C. Roney-Dougal),
-*Manuscript*
+The Excess Zero Graph of a Coxeter Group
+with S. Hart and P.J. Rowley
+*submitted*
+
+Imprimitive Maximal Cocliques in the Generating Graphs of the Alternating and Symmetric Groups
+with C. Roney-Dougal
+*In prep... potentially indefeinetly*
 
 
 
