@@ -37,8 +37,8 @@ author_profile: true
 
 [2] V. Kelsey and P.J. Rowley - *On String C-Group Representations of Covers of the Sporadic Simple Groups*
 
-[3] V. Kelsey and C.M. Roney-Dougal -Imprimitive Maximal Cocliques in the Generating Graphs of the Alternating and Symmetric Groups
-*In prep... potentially indefinitely*
+[3] V. Kelsey and C.M. Roney-Dougal - *Imprimitive Maximal Cocliques in the Generating Graphs of the Alternating and Symmetric Groups*
+In prep... potentially indefinitely
 
 ### PhD Thesis - Base size and generating graphs of primitive permutation groups
 
