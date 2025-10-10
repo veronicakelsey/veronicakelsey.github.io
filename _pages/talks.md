@@ -3,6 +3,9 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+
+(Sorry that this list is very out of date!)
+
 Generating Graphs -
 *Piscopia Society PiWorks seminar, 2022*
 
