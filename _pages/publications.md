@@ -6,13 +6,13 @@ author_profile: true
 
 ### Published papers
 
-S. Hart, V. Kelsey and P.J. Rowley *The Excess Zero Graph of a Coxeter Group* J. Group Theory - to appear
+[1] S. Hart, V. Kelsey and P.J. Rowley - *The Excess Zero Graph of a Coxeter Group* - J. Group Theory - to appear
 
-S. Hart, V. Kelsey and P.J. Rowley *Root cycles in Coxeter groups* J. Group Theory - 2024
+[2] S. Hart, V. Kelsey and P.J. Rowley *Root cycles in Coxeter groups* J. Group Theory - 2024
 
-S.D. Freedman, V. Kelsey and C.M. Roney-Dougal *The relational complexity of linear groups acting on subspaces* J. Group Theory - 2024
+[3] S.D. Freedman, V. Kelsey and C.M. Roney-Dougal *The relational complexity of linear groups acting on subspaces* J. Group Theory - 2024
 
-V. Kelsey, R. Nicolaides and P.J. Rowley *A note on the rank 5 polytopes of  M_24* Innov. Incidence Geom. - 2024
+[4] V. Kelsey, R. Nicolaides and P.J. Rowley *A note on the rank 5 polytopes of  M_24* Innov. Incidence Geom. - 2024
 
 V. Kelsey, R. Nicolaides and P.J. Rowley *On the rank 5 polytopes of the Higman-Sims simple group* Innov. Incidence Geom. - 2022
 
