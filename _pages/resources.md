@@ -4,6 +4,8 @@ permalink: /resources/
 author_profile: true
 ---
 
+### For Postdocs
+I co-created an [EDI webpage][https://sites.google.com/view/edi-manchester-maths/home] for Manchester maths podsocs but a lot of the advice/resrouces will be relavent for postdocs outside of Manchester 
 
 ### For School Kids
 
