@@ -7,19 +7,20 @@ author_profile: true
 ### For Postdocs
 I co-created an [EDI webpage](https://sites.google.com/view/edi-manchester-maths/home) for Manchester maths podsocs but a lot of the advice/resrouces will be relavent for postdocs outside of Manchester 
 
-### For School Kids
+### For School Students
 
-For A-level students - these resources were designed to help students revising for their mechanics module. <br>
+#### Maths A-level: Mechanics module
 [Exam style questions](https://veronicakelsey.github.io/files/Mechanics%20questions.pdf) Questions I created similar to those on exams, feel free to email me for solutions <br>
 [Displacement handout](https://veronicakelsey.github.io/files/Displacement%20Handout.pdf) A handout illustrating the relationship between displacemnt, velocity and acceleration <br>
 [Modulus handout](https://veronicakelsey.github.io/files/Modulus%20Handout.pdf) A handout with examples comparing y=f(x) to y=|f(x)| and y=f(|x|) <br>
 
-Mazes, Minotaurs and Maths - designed for older secondary school/college students (or younger students with an adult helper). <br>
+#### Outreach event: seconday school
+Mazes, Minotaurs and Maths  <br>
 [Handout](https://veronicakelsey.github.io/files/MazesResource.pdf) Background info and a worked example <br>
 [Worksheet](https://veronicakelsey.github.io/files/MazesProblems.pdf) Some problems to have a go at <br>
 (Source - https://plus.maths.org/content/maths-amazes)
 
-
+#### Lockdown teaching support: Primary school
 Symmetry - I made this quickly to help a family friend with homeschooling during lockdown. <br>
 [Worksheet](https://veronicakelsey.github.io/files/sym.pdf) 
 
