@@ -29,7 +29,13 @@ Mazes, Minotaurs and Maths  <br>
 
 These handouts were made after requested by students in my tutorial groups, but some of them might be of help even if you aren't on these specfic courses. 
 
-#### MT2504
+#### MATH42421/MATH62621 (Manchester)
+
+[A worked example of the Galois Correspondence](https://veronicakelsey.github.io/files/Galois-Correspondence-Example.pdf)
+
+[A handout on group recognition](https://veronicakelsey.github.io/files/Group-Recognition.pdf)
+
+#### MT2504 (St Andrews)
 
 [Sigma/summation notation revision](https://veronicakelsey.github.io/files/sigma.pdf) 
 
@@ -39,7 +45,7 @@ These handouts were made after requested by students in my tutorial groups, but 
 
 [2020 Revision session notes 2](https://veronicakelsey.github.io/files/fib.pdf) - covering recursive formulas and fibonacci numbers (specifically focusing on guessing the "general term", past exam questions and the staircase 
 
-#### MT2505
+#### MT2505 (St Andrews)
 
 [2021 Revision session notes](https://veronicakelsey.github.io/files/Revision Session.pdf) - functions, congruences & normal subgroups
 
@@ -47,7 +53,7 @@ These handouts were made after requested by students in my tutorial groups, but 
 
 [Congruences revision handout](https://veronicakelsey.github.io/files/congruencesrevision.pdf)  
 
-#### MT2501
+#### MT2501 (St Andrews)
 
 [Basic proof layouts and techniques handout](https://veronicakelsey.github.io/files/proofsrevision.pdf) - originally intended for people studying Linear Maths, but potentially of use to any undergrad student 
 
