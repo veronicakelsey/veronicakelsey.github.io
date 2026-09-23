@@ -69,6 +69,15 @@ To foster accessibility of the group we provide multiple sources for each meetin
 
   
 <details closed>
+  <summary>Childhood Poverty and Instability</summary>
+  
+#### Brief Summary
+  "Despite the UK being one of the richest countries in the world, around 4.5 million children (1 in 3) live in poverty. Children in lone-parent families face an even higher risk, with 43% living in poverty. The impact of child poverty is severe, affecting children’s health, wellbeing, and future economic opportunities. Children in poverty are also more likely to experience deeper and more persistent hardship, with around 1 million children facing destitution, the most extreme form of poverty, in 2023." Joseph Roundtree Foundation
+  
+#### Sources
+
+
+<details closed>
   <summary>504 Sit-In</summary>
   
 #### Brief Summary
