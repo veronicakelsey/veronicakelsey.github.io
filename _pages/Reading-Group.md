@@ -9,7 +9,7 @@ To foster accessibility of the group we provide multiple sources for each meetin
 (Apologies in advance for any spelling mistakes)
 
 
-<details open>
+<details closed>
   <summary><h3> Freedom House Ambulance Service </h3></summary>
   
  **Brief Summary**
