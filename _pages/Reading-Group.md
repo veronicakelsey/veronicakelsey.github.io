@@ -33,3 +33,44 @@ To foster accessibility of the group we provide multiple sources for each meetin
     - [Passing Radio adaptation](https://era.org.uk/lit-resource/passing-by-nella-larsen-episode-1/) a BBC Radio 4 adaptation available for free on ERA
     - [Seriously… Thinking in colour](https://www.bbc.co.uk/sounds/play/p09hszcd) a BBC radio 4 podcast exploring stories of racial passing available for free on BBC sounds
 - Watch: [Passing](https://www.netflix.com/gb/title/81424320) a film adaptation of the book on Netflix
+
+
+
+<details closed>
+  <summary>504 Sit-In</summary>
+  
+#### Brief Summary
+
+"The 504 Sit-in was a disability rights protest that began on April 5, 1977. People with disabilities and the disability community occupied federal buildings in the United States in order to push the issuance of long-delayed regulations regarding Section 504 of the Rehabilitation Act of 1973. Prior to the 1990 enactment of the Americans with Disabilities Act, the Rehabilitation Act was the most important disability rights legislation in the United States." 504 Sit-in - Wikipedia
+
+#### Sources
+
+- Read:
+    - Being Heumann: An Unrepentant Memoir of a Disability Rights Activist - by Judy Heumann and Kristen Joiner
+    - The Country of the Blind: A Memoir at the End of Sight - by Andrew Leland
+    - The disabled activist who led a historic 24-day sit-in - a BBC news articles available for free
+- Watch
+    - Crip Camp: A Disability Revolution - a 1hr46 documentary available on Netflix
+- Listen:
+    - America's 504 Disability Rights Protests - a short BBC radio 4 podcasts available for free
+
+<details closed>
+  <summary>EDAI - AI Bias</summary>
+  
+#### Brief Summary
+"AI bias, also called machine learning bias or algorithm bias, refers to the occurrence of biased results due to human biases that skew the original training data or AI algorithm—leading to distorted outputs and potentially harmful outcomes." What is AI Bias
+
+#### Sources
+- Read
+    - For minorities, biased AI algorithms can damage almost every part of life An article by Arshin Adib-Moghaddam (SOAS)
+    - Tackling bias in artificial intelligence (and in humans) An article by Jake Silberg and James Manyika (McKinsey)
+- Listen - Bias in AI an episode of Digital Planet from the BBC World Service (minutes 11-28 are most relevant)
+- Watch - Episode 3 of AI Confidential with Hannah Fry available on BBC iplayer (less focus on inhertent AI bias but does raise some interesting questions about AI could create more bias)
+
+  
+<details closed>
+  <summary>504 Sit-In</summary>
+  
+#### Brief Summary
+  
+#### Sources
