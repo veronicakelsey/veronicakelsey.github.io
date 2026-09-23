@@ -7,80 +7,80 @@ author_profile: true
 These resources for our small EDIA "reading" group. We aim to consider topics we might not have explored before.
 To foster accessibility of the group we provide multiple sources for each meeting (reading, listening and watching) to support different learning styles, we also ensure several of the sources are available for free. We do our best to vet sources before suggesting them but some of them may have their own biases/issues which we can then discuss in the session.
 
-### Freedom House Ambulance Service
+## Freedom House Ambulance Service
 
 **Brief Summary**
 
-"Freedom House Ambulance Service was the first emergency medical service in the United States to be staffed by paramedics with medical training beyond basic first aid. Founded in 1967 to serve the predominantly Black Hill District of Pittsburgh, Pennsylvania, it was staffed entirely by African Americans. Freedom House Ambulance Service broke medical ground by training its personnel to previously unheard-of standards of emergency medical care for patients en route to hospitals. The paramedic training and ambulance design standards pioneered in the Freedom House Ambulance Service would set the standard for emergency care nationally and even internationally. Despite its successes, the ambulance service was closed eight years after it began operating."  Freedom House Ambulance Service - Wikipedia
+"Freedom House Ambulance Service was the first emergency medical service in the United States to be staffed by paramedics with medical training beyond basic first aid. Founded in 1967 to serve the predominantly Black Hill District of Pittsburgh, Pennsylvania, it was staffed entirely by African Americans. Freedom House Ambulance Service broke medical ground by training its personnel to previously unheard-of standards of emergency medical care for patients en route to hospitals. The paramedic training and ambulance design standards pioneered in the Freedom House Ambulance Service would set the standard for emergency care nationally and even internationally. Despite its successes, the ambulance service was closed eight years after it began operating."  [Freedom House Ambulance Service - Wikipedia](https://en.wikipedia.org/wiki/Freedom_House_Ambulance_Service)
 
 **Sources**
 
-- Read - American Sirens by Kevin Hazzard a 360 page book
-- Listen - Paramedics a free 1 hour podcast
-- Watch - Freedom House Ambulance: The FIRST Responders a free 30 min documentary by PBS available for free on youtube
+- Read - [American Sirens by Kevin Hazzard](https://www.goodreads.com/book/show/60789389-american-sirens) a 360 page book
+- Listen - [Paramedics](https://thisiscriminal.com/episode-222-the-paramedics-6-8-2023/) a free 1 hour podcast
+- Watch - [Freedom House Ambulance: The FIRST Responders](https://www.youtube.com/watch?v=1pGFo0OmfwY) a free 30 min documentary by PBS available for free on youtube
 
-### Racial Passing
+## Racial Passing
 
 **Brief Summary**
 
-"Passing, in the context of race, occurs when one conceals their socially applied racial identity or ethnicity in order to be perceived as another race for acceptance and/or other benefits. Historically, the term has been used primarily in the United States to describe a person of mixed race who has assimilated into the white majority to escape the legal and social consequences of racial segregation and discrimination. In the Antebellum South, passing as White was sometimes a temporary disguise used as a means of escaping slavery, which had become a racial caste." Passing (racial identity) - Wikipedia)
+"Passing, in the context of race, occurs when one conceals their socially applied racial identity or ethnicity in order to be perceived as another race for acceptance and/or other benefits. Historically, the term has been used primarily in the United States to describe a person of mixed race who has assimilated into the white majority to escape the legal and social consequences of racial segregation and discrimination. In the Antebellum South, passing as White was sometimes a temporary disguise used as a means of escaping slavery, which had become a racial caste." [Passing (racial identity) - Wikipedia](https://en.wikipedia.org/wiki/Passing_(racial_identity))
 
 **Sources**
 
-- Read - Passing by Nella Larsen
+- Read - [Passing by Nella Larsen](https://www.goodreads.com/book/show/57640287-passing)
 - Listen:
-    - Passing Audiobook LibriVox audiobook available for free on YouTube
-    - Passing Radio adaptation a BBC Radio 4 adaptation available for free on ERA
-    - Seriously… Thinking in colour a BBC radio 4 podcast exploring stories of racial passing available for free on BBC sounds
-- Watch: Passing a film adaptation of the book on Netflix
+    - [Passing Audiobook](https://www.youtube.com/watch?v=dtqgq8sIQs0&t=583s) LibriVox audiobook available for free on YouTube
+    - [Passing Radio adaptation](https://era.org.uk/lit-resource/passing-by-nella-larsen-episode-1/) a BBC Radio 4 adaptation available for free on ERA
+    - [Seriously… Thinking in colour](https://www.bbc.co.uk/sounds/play/p09hszcd) a BBC radio 4 podcast exploring stories of racial passing available for free on BBC sounds
+- Watch: [Passing](https://www.netflix.com/gb/title/81424320) a film adaptation of the book on Netflix
 
-### 504 Sit-In
+## 504 Sit-In
 
 **Brief Summary**
 
-"The 504 Sit-in was a disability rights protest that began on April 5, 1977. People with disabilities and the disability community occupied federal buildings in the United States in order to push the issuance of long-delayed regulations regarding Section 504 of the Rehabilitation Act of 1973. Prior to the 1990 enactment of the Americans with Disabilities Act, the Rehabilitation Act was the most important disability rights legislation in the United States." 504 Sit-in - Wikipedia
+"The 504 Sit-in was a disability rights protest that began on April 5, 1977. People with disabilities and the disability community occupied federal buildings in the United States in order to push the issuance of long-delayed regulations regarding Section 504 of the Rehabilitation Act of 1973. Prior to the 1990 enactment of the Americans with Disabilities Act, the Rehabilitation Act was the most important disability rights legislation in the United States." [504 Sit-in - Wikipedia](https://en.wikipedia.org/wiki/504_Sit-in)
 
 **Sources**
 
 - Read:
-    - Being Heumann: An Unrepentant Memoir of a Disability Rights Activist - by Judy Heumann and Kristen Joiner
-    - The Country of the Blind: A Memoir at the End of Sight - by Andrew Leland
-    - The disabled activist who led a historic 24-day sit-in - a BBC news articles available for free
+    - [Being Heumann: An Unrepentant Memoir of a Disability Rights Activist - by Judy Heumann and Kristen Joiner](https://www.goodreads.com/book/show/46184567-being-heumann)
+    - [The Country of the Blind: A Memoir at the End of Sight - by Andrew Leland](https://www.goodreads.com/book/show/121561903-the-country-of-the-blind)
+    - [The disabled activist who led a historic 24-day sit-in](https://www.bbc.co.uk/news/stories-54794408) - a BBC news articles available for free
 - Watch
-    - Crip Camp: A Disability Revolution - a 1hr46 documentary available on Netflix
+    - [Crip Camp: A Disability Revolution](https://www.netflix.com/gb/title/81001496) - a 1hr46 documentary available on Netflix
 - Listen:
-    - America's 504 Disability Rights Protests - a short BBC radio 4 podcasts available for free
+    - [America's 504 Disability Rights Protests](https://www.bbc.co.uk/sounds/play/p04yxs4g) - a short BBC radio 4 podcasts available for free
 
-### EDAI - AI Bias
+## EDAI - AI Bias
 
 **Brief Summary**
 
-"AI bias, also called machine learning bias or algorithm bias, refers to the occurrence of biased results due to human biases that skew the original training data or AI algorithm—leading to distorted outputs and potentially harmful outcomes." What is AI Bias
+"AI bias, also called machine learning bias or algorithm bias, refers to the occurrence of biased results due to human biases that skew the original training data or AI algorithm—leading to distorted outputs and potentially harmful outcomes." [What is AI Bias](https://www.ibm.com/think/topics/ai-bias)
 
 **Sources**
 
 - Read
-    - For minorities, biased AI algorithms can damage almost every part of life An article by Arshin Adib-Moghaddam (SOAS)
-    - Tackling bias in artificial intelligence (and in humans) An article by Jake Silberg and James Manyika (McKinsey)
-- Listen - Bias in AI an episode of Digital Planet from the BBC World Service (minutes 11-28 are most relevant)
-- Watch - Episode 3 of AI Confidential with Hannah Fry available on BBC iplayer (less focus on inhertent AI bias but does raise some interesting questions about AI could create more bias)
+    - [For minorities, biased AI algorithms can damage almost every part of life](https://www.soas.ac.uk/about/blogs/minorities-biased-ai-algorithms-can-damage-almost-every-part-life) An article by Arshin Adib-Moghaddam (SOAS)
+    - [Tackling bias in artificial intelligence (and in humans)](https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-bias-in-artificial-intelligence-and-in-humans) An article by Jake Silberg and James Manyika (McKinsey)
+- Listen - [Bias in AI](https://www.bbc.co.uk/sounds/play/w3ct1ls5) an episode of Digital Planet from the BBC World Service (minutes 11-28 are most relevant)
+- Watch - [Episode 3 of AI Confidential with Hannah Fry](https://www.bbc.co.uk/iplayer/episode/m002r9c3/ai-confidential-with-hannah-fry-series-1-3-the-assassin-and-the-algorithm) available on BBC iplayer (less focus on inhertent AI bias but does raise some interesting questions about AI could create more bias)
 
-### Childhood Poverty and Instability
+## Childhood Poverty and Instability
 
 **Brief Summary**
 
-"Despite the UK being one of the richest countries in the world, around 4.5 million children (1 in 3) live in poverty. Children in lone-parent families face an even higher risk, with 43% living in poverty. The impact of child poverty is severe, affecting children’s health, wellbeing, and future economic opportunities. Children in poverty are also more likely to experience deeper and more persistent hardship, with around 1 million children facing destitution, the most extreme form of poverty, in 2023." Joseph Roundtree Foundation
+"Despite the UK being one of the richest countries in the world, around 4.5 million children (1 in 3) live in poverty. Children in lone-parent families face an even higher risk, with 43% living in poverty. The impact of child poverty is severe, affecting children’s health, wellbeing, and future economic opportunities. Children in poverty are also more likely to experience deeper and more persistent hardship, with around 1 million children facing destitution, the most extreme form of poverty, in 2023." [Joseph Roundtree Foundation](https://www.jrf.org.uk/child-poverty)
 
 **Sources**
 
-- Read - Lowborn: Growing Up, Getting Away and Returning to Britain’s Poorest Towns by Kerry Hudson (4 copies available at Manchester Central Library)
+- Read - [Lowborn: Growing Up, Getting Away and Returning to Britain’s Poorest Towns by Kerry Hudson](https://www.penguin.co.uk/books/437729/lowborn-by-kerry-hudson/9781784708603) (4 copies available at Manchester Central Library)
 - Listen - (listed in order of relevance)
-    - Lowborn - audiobook, available for free through Manchester Central Library
-    - Must Read: Author interview with Kerry Hudson - a podcast on BBC sounds hosted by Sarah Brett
-    - Class Talk - an episode of Seriously... a podcast on BBC sounds
+    - Lowborn - audiobook, available for free through [Manchester Central Library](https://www.manchester.gov.uk/info/200062/libraries/6701/look_for_reserve_or_renew_an_item)
+    - [Must Read: Author interview with Kerry Hudson](https://www.bbc.co.uk/sounds/play/p07psm7g) - a podcast on BBC sounds hosted by Sarah Brett
+    - [Class Talk](https://www.bbc.co.uk/sounds/play/p085r26p) - an episode of Seriously... a podcast on BBC sounds
 - Watch - (still on the hunt)
 
-### The Mersey Model
+## The Mersey Model
 
 **Brief Summary**
 
@@ -88,13 +88,13 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
 
 **Sources**
 
-- Listen - The Liverpool Exchange An episode of the podcast Criminal hosted be Pheobe Judge
-- Watch - Danny Kilbride, The Mersey Model, 2021 A documentary in which Danny Kilbride interviews Professor John Ashton
+- Listen - [The Liverpool Exchange](https://thisiscriminal.com/episode-243-the-liverpool-exchange-11-10-2023/) An episode of the podcast Criminal hosted be Pheobe Judge
+- Watch - [Danny Kilbride, The Mersey Model, 2021](https://video.visualaids.org/Danny-Kilbride-The-Mersey-Model) A documentary in which Danny Kilbride interviews Professor John Ashton
 - Read -
     - The Mersey Harm Reduction Model An article on The Nonviolence Project website hosted by The University of Maddison-Wisconsin
     - Figures behind ground-breaking drug clinic celebrate 40 years of the 'Mersey Model' An article on the Liverpool Echo website
 
-### Milk and the Alt-Right
+## Milk and the Alt-Right
 
 **Brief Summary**
 
@@ -105,7 +105,7 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
 - Read - White Power Milk by Vasile Stănescu
 - Watch/listen - What's the Deal with Raw Milk (Part 1) a podcast episode on the "This Podcast Will Kill You" hosted by Dr Erin Welsh and Dr Erin Allmann Updyke. Available to watch on youtube via the link or listen via most podcasting apps/websites
 
-### Blood Quantum
+## Blood Quantum
 
 **Brief Summary**
 
@@ -118,7 +118,7 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
     - Blood Quantum and Soverentiy: a guide an article on the Native Governance Center website
     - Blood quantum laws are splitting my tribe an article on The Atlantic written by Leah Meyers
 
-### The Lavender Scare
+## The Lavender Scare
 
 **Brief Summary**
 
@@ -132,7 +132,7 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
     - The Lavender Scare A documenary that can be wached for around £10. Maybe we could have a viewing party
 - Read - The Lavender Scare: the shocking true story of an anti-LGBT witch-hunt An article by The Guardian
 
-### Deaf culture
+## Deaf culture
 
 **Brief Summary**
 
@@ -144,7 +144,7 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
 - Read - Seeing Voices by Oliver Sacks
 - Experience - British Deaf History Museum located in the Manchester Deaf Centre within the University of Manchester Crawford House building. Open Mon-Wed 10-3. We could plan a group visit and I could try and arrange for someone from the MDC to be there and I can do my best to translate
 
-### Autistic Woman
+## Autistic Woman
 
 **Brief Summary**
 
@@ -156,7 +156,7 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
 - Read - The Lost Girls of Autism: The Untold Story of Women on the Spectrum by Gina Rippon
 - Listen - The Neurodivergent Woman a podcast series hosted by clinical psychologist Monique Mitchelson and clinical neuropsychologist Michelle Livock
 
-### The Sixties Scoop
+## The Sixties Scoop
 
 **Brief Summary**
 
