@@ -18,3 +18,18 @@ To foster accessibility of the group we provide multiple sources for each meetin
 - Listen - [Paramedics](https://thisiscriminal.com/episode-222-the-paramedics-6-8-2023/) a free 1 hour podcast
 - Watch - [Freedom House Ambulance: The FIRST Responders](https://www.youtube.com/watch?v=1pGFo0OmfwY) a free 30 min documentary by PBS available for free on youtube
 </details>
+
+
+<details closed>
+  <summary><h3>Racial Passing</h3></summary>
+  
+#### Brief Summary
+"Passing, in the context of race, occurs when one conceals their socially applied racial identity or ethnicity in order to be perceived as another race for acceptance and/or other benefits. Historically, the term has been used primarily in the United States to describe a person of mixed race who has assimilated into the white majority to escape the legal and social consequences of racial segregation and discrimination. In the Antebellum South, passing as White was sometimes a temporary disguise used as a means of escaping slavery, which had become a racial caste." [Passing (racial identity) - Wikipedia](https://en.wikipedia.org/wiki/Passing_(racial_identity))
+
+#### Sources
+- Read - [Passing by Nella Larsen](https://www.goodreads.com/book/show/57640287-passing)
+- Listen:
+    - [Passing Audiobook LibriVox audiobook](https://www.youtube.com/watch?v=dtqgq8sIQs0&t=583s) available for free on YouTube
+    - [Passing Radio adaptation](https://era.org.uk/lit-resource/passing-by-nella-larsen-episode-1/) a BBC Radio 4 adaptation available for free on ERA
+    - [Seriously… Thinking in colour](https://www.bbc.co.uk/sounds/play/p09hszcd) a BBC radio 4 podcast exploring stories of racial passing available for free on BBC sounds
+- Watch: [Passing](https://www.netflix.com/gb/title/81424320) a film adaptation of the book on Netflix
