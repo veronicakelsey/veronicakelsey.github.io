@@ -33,7 +33,7 @@ To foster accessibility of the group we provide multiple sources for each meetin
     - [Passing Radio adaptation](https://era.org.uk/lit-resource/passing-by-nella-larsen-episode-1/) a BBC Radio 4 adaptation available for free on ERA
     - [Seriously… Thinking in colour](https://www.bbc.co.uk/sounds/play/p09hszcd) a BBC radio 4 podcast exploring stories of racial passing available for free on BBC sounds
 - Watch: [Passing](https://www.netflix.com/gb/title/81424320) a film adaptation of the book on Netflix
-
+</details>
 
 
 <details closed>
@@ -53,6 +53,7 @@ To foster accessibility of the group we provide multiple sources for each meetin
     - Crip Camp: A Disability Revolution - a 1hr46 documentary available on Netflix
 - Listen:
     - America's 504 Disability Rights Protests - a short BBC radio 4 podcasts available for free
+</details>
 
 <details closed>
   <summary>EDAI - AI Bias</summary>
@@ -66,7 +67,7 @@ To foster accessibility of the group we provide multiple sources for each meetin
     - Tackling bias in artificial intelligence (and in humans) An article by Jake Silberg and James Manyika (McKinsey)
 - Listen - Bias in AI an episode of Digital Planet from the BBC World Service (minutes 11-28 are most relevant)
 - Watch - Episode 3 of AI Confidential with Hannah Fry available on BBC iplayer (less focus on inhertent AI bias but does raise some interesting questions about AI could create more bias)
-
+</details>
   
 <details closed>
   <summary>Childhood Poverty and Instability</summary>
@@ -75,7 +76,7 @@ To foster accessibility of the group we provide multiple sources for each meetin
   "Despite the UK being one of the richest countries in the world, around 4.5 million children (1 in 3) live in poverty. Children in lone-parent families face an even higher risk, with 43% living in poverty. The impact of child poverty is severe, affecting children’s health, wellbeing, and future economic opportunities. Children in poverty are also more likely to experience deeper and more persistent hardship, with around 1 million children facing destitution, the most extreme form of poverty, in 2023." Joseph Roundtree Foundation
   
 #### Sources
-
+</details>
 
 <details closed>
   <summary>504 Sit-In</summary>
