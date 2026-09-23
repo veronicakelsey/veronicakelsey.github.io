@@ -6,8 +6,6 @@ author_profile: true
 
 These resources for our small EDIA "reading" group. We aim to consider topics we might not have explored before.
 To foster accessibility of the group we provide multiple sources for each meeting (reading, listening and watching) to support different learning styles, we also ensure several of the sources are available for free. We do our best to vet sources before suggesting them but some of them may have their own biases/issues which we can then discuss in the session.
-(Apologies in advance for any spelling mistakes)
-
 
 <details closed>
   <summary><h3> Freedom House Ambulance Service </h3></summary>
