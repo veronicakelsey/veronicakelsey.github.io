@@ -11,6 +11,9 @@ main:
         
   - title: "Resources"
     url: /resources/
+    
+  - title: "Reading Group"
+    url: /readinggroup/
 
   - title: "CV"
     url: /files/CV-VKelsey.pdf 
