@@ -10,10 +10,10 @@ To foster accessibility of the group we provide multiple sources for each meetin
 <details closed>
   <summary>Freedom House Ambulance Service</summary>
   
-**Brief Summary**\
+#### Brief Summary 
 "Freedom House Ambulance Service was the first emergency medical service in the United States to be staffed by paramedics with medical training beyond basic first aid. Founded in 1967 to serve the predominantly Black Hill District of Pittsburgh, Pennsylvania, it was staffed entirely by African Americans. Freedom House Ambulance Service broke medical ground by training its personnel to previously unheard-of standards of emergency medical care for patients en route to hospitals. The paramedic training and ambulance design standards pioneered in the Freedom House Ambulance Service would set the standard for emergency care nationally and even internationally. Despite its successes, the ambulance service was closed eight years after it began operating." [Freedom House Ambulance Service - Wikipedia](https://en.wikipedia.org/wiki/Freedom_House_Ambulance_Service)
 
-**Sources**
+#### Sources
 - Read - [American Sirens by Kevin Hazzard](https://www.goodreads.com/book/show/60789389-american-sirens) a 360 page book
 - Listen - [Paramedics](https://thisiscriminal.com/episode-222-the-paramedics-6-8-2023/) a free 1 hour podcast
 - Watch - [Freedom House Ambulance: The FIRST Responders](https://www.youtube.com/watch?v=1pGFo0OmfwY) a free 30 min documentary by PBS available for free on youtube
@@ -23,10 +23,10 @@ To foster accessibility of the group we provide multiple sources for each meetin
 <details closed>
   <summary>Racial Passing</summary>
   
-**Brief Summary**\
+#### Brief Summary
 "Passing, in the context of race, occurs when one conceals their socially applied racial identity or ethnicity in order to be perceived as another race for acceptance and/or other benefits. Historically, the term has been used primarily in the United States to describe a person of mixed race who has assimilated into the white majority to escape the legal and social consequences of racial segregation and discrimination. In the Antebellum South, passing as White was sometimes a temporary disguise used as a means of escaping slavery, which had become a racial caste." [Passing (racial identity) - Wikipedia](https://en.wikipedia.org/wiki/Passing_(racial_identity))
 
-**Sources**
+#### Sources
 - Read - [Passing by Nella Larsen](https://www.goodreads.com/book/show/57640287-passing)
 - Listen:
     - [Passing Audiobook LibriVox audiobook](https://www.youtube.com/watch?v=dtqgq8sIQs0&t=583s) available for free on YouTube
