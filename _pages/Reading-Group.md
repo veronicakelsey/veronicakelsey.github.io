@@ -10,7 +10,7 @@ To foster accessibility of the group we provide multiple sources for each meetin
 
 
 <details open>
-  <summary>Freedom House Ambulance Service</summary>
+  <summary><h3> Freedom House Ambulance Service </h3></summary>
   
  **Brief Summary**
 "Freedom House Ambulance Service was the first emergency medical service in the United States to be staffed by paramedics with medical training beyond basic first aid. Founded in 1967 to serve the predominantly Black Hill District of Pittsburgh, Pennsylvania, it was staffed entirely by African Americans. Freedom House Ambulance Service broke medical ground by training its personnel to previously unheard-of standards of emergency medical care for patients en route to hospitals. The paramedic training and ambulance design standards pioneered in the Freedom House Ambulance Service would set the standard for emergency care nationally and even internationally. Despite its successes, the ambulance service was closed eight years after it began operating." [Freedom House Ambulance Service - Wikipedia](https://en.wikipedia.org/wiki/Freedom_House_Ambulance_Service)
