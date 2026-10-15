@@ -13,15 +13,18 @@ We do our best to vet sources before suggesting them but some of them may have t
 
 
 <details>
-  <summary><b>Freedom House Ambulance Service</b></summary>
-  <p>
+<summary><b>Freedom House Ambulance Service</b></summary>
+<p>
 <b>Brief Summary</b>
-    
-    "Freedom House Ambulance Service was the first emergency medical service in the United States to be staffed by paramedics with medical training beyond basic first aid. Founded in 1967 to serve the predominantly Black Hill District of Pittsburgh, Pennsylvania, it was staffed entirely by African Americans. Freedom House Ambulance Service broke medical ground by training its personnel to previously unheard-of standards of emergency medical care for patients en route to hospitals. The paramedic training and ambulance design standards pioneered in the Freedom House Ambulance Service would set the standard for emergency care nationally and even internationally. Despite its successes, the ambulance service was closed eight years after it began operating."  [<ahref="https://en.wikipedia.org/wiki/Freedom_House_Ambulance_Service">Freedom House Ambulance Service - Wikipedia</a>]
+</p>
+<p>
+"Freedom House Ambulance Service was the first emergency medical service in the United States to be staffed by paramedics with medical training beyond basic first aid. Founded in 1967 to serve the predominantly Black Hill District of Pittsburgh, Pennsylvania, it was staffed entirely by African Americans. Freedom House Ambulance Service broke medical ground by training its personnel to previously unheard-of standards of emergency medical care for patients en route to hospitals. The paramedic training and ambulance design standards pioneered in the Freedom House Ambulance Service would set the standard for emergency care nationally and even internationally. Despite its successes, the ambulance service was closed eight years after it began operating."  [<a href="https://en.wikipedia.org/wiki/Freedom_House_Ambulance_Service">Freedom House Ambulance Service - Wikipedia</a>]
 </p>
 
  <p>
 <b>Sources</b>
+   </p>
+    <p>
 <ul>
   <li>Read - <ahref="https://www.waterstones.com/book/american-sirens/kevin-hazzard/9780306926099">American Sirens by Kevin Hazzard</a></li>
   <li>Listen - <ahref="https://thisiscriminal.com/episode-222-the-paramedics-6-8-2023/">Paramedics</a> a free 1 hour podcast</li>
