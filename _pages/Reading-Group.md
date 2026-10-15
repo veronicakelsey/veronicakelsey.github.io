@@ -170,7 +170,7 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
  <br>
 
 <details>
-<summary><b>Deaf culture</b></summary>
+<summary><b>Deaf Culture</b></summary>
 <b>Brief Summary</b><br>
 "Like many linguistic minorities, Deaf people enjoy a unique culture, as worthy of respect as any other. The Deaf way of life is quite fascinating. It is only in recent years that research has begun to explore different aspects of Deaf relationships, communication and society."  [<a href="https://bda.org.uk/what-is-deaf-culture/">What is Deaf culture? - British Deaf Association</a>]
 <br>
@@ -221,7 +221,7 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
  <br>
 
 <details>
-<summary><b>Reading between the lines</b></summary>
+<summary><b>Reading Between The Lines</b></summary>
 <b>Brief Summary</b><br>
 This is a different session format. I thought it would be interesting to look at the interaction between EDIA and fonts/type faces. I've collected a list of type faces which be interesting for this topic and suggest that one person researches each one and then can present back to the group during the session.
 <br>
