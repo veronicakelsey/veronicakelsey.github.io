@@ -26,9 +26,9 @@ We do our best to vet sources before suggesting them but some of them may have t
    </p>
     <p>
 <ul>
-  <li>Read - <ahref="https://www.waterstones.com/book/american-sirens/kevin-hazzard/9780306926099">American Sirens by Kevin Hazzard</a></li>
-  <li>Listen - <ahref="https://thisiscriminal.com/episode-222-the-paramedics-6-8-2023/">Paramedics</a> a free 1 hour podcast</li>
-  <li>Watch - <ahref="https://www.youtube.com/watch?v=1pGFo0OmfwY">Freedom House Ambulance: The FIRST Responders</a> a free 30 min documentary by PBS available for free on YouTube </li>
+  <li>Read - <a href="https://www.waterstones.com/book/american-sirens/kevin-hazzard/9780306926099">American Sirens by Kevin Hazzard</a></li>
+  <li>Listen - <a href="https://thisiscriminal.com/episode-222-the-paramedics-6-8-2023/">Paramedics</a> a free 1 hour podcast</li>
+  <li>Watch - <a href="https://www.youtube.com/watch?v=1pGFo0OmfwY">Freedom House Ambulance: The FIRST Responders</a> a free 30 min documentary by PBS available for free on YouTube </li>
 </ul>
 </p>
 </details>
