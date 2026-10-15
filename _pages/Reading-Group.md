@@ -24,8 +24,9 @@ We do our best to vet sources before suggesting them but some of them may have t
   <dt> Watch:</dt>
 <dd>- <a href="https://www.youtube.com/watch?v=1pGFo0OmfwY">Freedom House Ambulance: The FIRST Responders</a> a free 30 min documentary by PBS available for free on YouTube</dd>
  </dl>
-</details>
-
+</details>   
+  
+ <br>
 
 <details>
 <summary><b> Racial Passing</b></summary>
@@ -43,6 +44,8 @@ We do our best to vet sources before suggesting them but some of them may have t
 <dd>- <a href="https://www.netflix.com/gb/title/81424320">Passing</a>  a film adaptation of the book on Netflix</dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>504 Sit-In</b></summary>
@@ -60,6 +63,8 @@ We do our best to vet sources before suggesting them but some of them may have t
 <dd>- <a href="https://www.netflix.com/gb/title/81001496">Crip Camp: A Disability Revolution</a>  a 1hr46 documentary available on Netflix</dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>EDAI - AI Bias</b></summary>
@@ -77,6 +82,8 @@ We do our best to vet sources before suggesting them but some of them may have t
 </dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>Childhood Poverty and Instability</b></summary>
@@ -92,6 +99,8 @@ We do our best to vet sources before suggesting them but some of them may have t
   <dd>- <a href="https://www.bbc.co.uk/sounds/play/p085r26p">Class Talk</a> an episode of Seriously... a podcast on BBC sounds</dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>The Mersey Model</b></summary>
@@ -108,6 +117,8 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
 <dd>- <a href="https://video.visualaids.org/Danny-Kilbride-The-Mersey-Model">Danny Kilbride, The Mersey Model, 2021</a> a documentary in which Danny Kilbride interviews Professor John Ashton</dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>Milk and the Alt-Right</b></summary>
@@ -121,6 +132,8 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
   <dd>- <a href="https://www.youtube.com/watch?v=W3w2FCAdIks">What's the Deal with Raw Milk (Part 1)</a>  a podcast episode on the "This Podcast Will Kill You" hosted by Dr Erin Welsh and Dr Erin Allmann Updyke. Available to watch on youtube via the link or listen via most podcasting apps/websites</dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>Blood Quantum</b></summary>
@@ -135,6 +148,8 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
   <dd>- <a href="https://www.youtube.com/watch?v=-iqZOqHSzM4">Blood Quantum: A Knife That Cuts Both Ways</a>  Stanford Graduate School of Business talk by Lacey Calac Dunne, MSx ’23</dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>The Lavender Scare</b></summary>
@@ -151,6 +166,8 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
 <dd>- <a href="https://watch.eventive.org/thelavenderscare/play/626334114494dc005a3010ad">The Lavender Scare</a> a documentary that can be wached for around £10. Maybe we could have a viewing party</dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>Deaf culture</b></summary>
@@ -166,6 +183,8 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
 <dd>- <a href="https://www.bbc.co.uk/iplayer/episodes/m001n9sr/rose-aylingellis-signs-for-change">Signs for change</a> a BBC documentary hosted by Rose Ayling-Ellis</dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>Autistic Woman</b></summary>
@@ -181,6 +200,8 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
 <dd>- <a href="https://www.bbc.co.uk/iplayer/episode/m001k31t/christine-mcguinness-unmasking-my-autism">Unmasking My Autism</a> a BBC documentary hosted by Christine McGuinness</dd>
  </dl>
 </details>
+  
+ <br>
 
 <details>
 <summary><b>The Sixties Scoop</b></summary>
@@ -195,4 +216,22 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
   <dt> Watch:</dt>
 <dd>- <a href="https://www.youtube.com/watch?v=zTGzR3y8L3Q">Birth of a Family</a> a National Film Board of Canada documentary available on YouTube</dd>
  </dl>
+</details>
+
+ <br>
+
+<details>
+<summary><b>Reading between the lines</b></summary>
+<b>Brief Summary</b><br>
+This is a different session format. I thought it would be interesting to look at the interaction between EDIA and fonts/type faces. I've collected a list of type faces which be interesting for this topic and suggest that one person researches each one and then can present back to the group during the session.
+<br>
+<dl>
+<dt>Type faces:</dt>
+  <dd>- The Atkinson Hyperlegible</dd>
+  <dd>- Dyslexie Font</dd>
+  <dd>- Comic sans</dd>
+  <dd>- Neuland font</dd>
+  <dd>- Chop Suey font</dd>
+  <dd>- Braile (Could be its own session but might be interesting to touch on)</dd>
+</dl>
 </details>
