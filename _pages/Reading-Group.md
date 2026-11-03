@@ -117,7 +117,25 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
 <dd>- <a href="https://video.visualaids.org/Danny-Kilbride-The-Mersey-Model">Danny Kilbride, The Mersey Model, 2021</a> a documentary in which Danny Kilbride interviews Professor John Ashton</dd>
  </dl>
 </details>
-  
+
+ <br>
+
+  <details>
+<summary><b>Reading Between The Lines</b></summary>
+<b>Brief Summary</b><br>
+This is a different session format. I thought it would be interesting to look at the interaction between EDIA and fonts/type faces. I've collected a list of type faces which be interesting for this topic and suggest that one person researches each one and then can present back to the group during the session.
+<br>
+<dl>
+<dt>Type faces:</dt>
+  <dd>- The Atkinson Hyperlegible</dd>
+  <dd>- Dyslexie Font</dd>
+  <dd>- Comic sans</dd>
+  <dd>- Neuland font</dd>
+  <dd>- Chop Suey font</dd>
+  <dd>- Braile (Could be its own session but might be interesting to touch on)</dd>
+</dl>
+</details>
+
  <br>
 
 <details>
@@ -216,22 +234,4 @@ The Mersey Model, pioneered in Liverpool, UK, in 1986, was a groundbreaking, gov
   <dt> Watch:</dt>
 <dd>- <a href="https://www.youtube.com/watch?v=zTGzR3y8L3Q">Birth of a Family</a> a National Film Board of Canada documentary available on YouTube</dd>
  </dl>
-</details>
-
- <br>
-
-<details>
-<summary><b>Reading Between The Lines</b></summary>
-<b>Brief Summary</b><br>
-This is a different session format. I thought it would be interesting to look at the interaction between EDIA and fonts/type faces. I've collected a list of type faces which be interesting for this topic and suggest that one person researches each one and then can present back to the group during the session.
-<br>
-<dl>
-<dt>Type faces:</dt>
-  <dd>- The Atkinson Hyperlegible</dd>
-  <dd>- Dyslexie Font</dd>
-  <dd>- Comic sans</dd>
-  <dd>- Neuland font</dd>
-  <dd>- Chop Suey font</dd>
-  <dd>- Braile (Could be its own session but might be interesting to touch on)</dd>
-</dl>
 </details>
