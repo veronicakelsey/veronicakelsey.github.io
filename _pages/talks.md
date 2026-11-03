@@ -5,7 +5,7 @@ author_profile: true
 ---
 When I have the time I like to include little doodles in my talks. Sometimes using my iPad to trace things from the internet. Here are some of my favourites.
 
-<img align="centre" src="https://veronicakelsey.github.io/images/Drawings.png" width="160">
+<img align="centre" src="https://veronicakelsey.github.io/images/Drawings.pdf" width="160">
 
 
 (Sorry that this list is very out of date!)
