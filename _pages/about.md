@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
   -
 ---
+
+Everything on this page is likely somewhat out of date.
+
 ## Maths
 
 I am a research fellow at the University of Manchester [Department of mathematics](https://www.maths.manchester.ac.uk).
