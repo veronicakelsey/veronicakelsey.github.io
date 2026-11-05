@@ -18,13 +18,13 @@ $link-color-visited: #7A4988;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Header background colour */
-.masthead {
-  background-color: #faf9f6;
-}
 
+/* Custom header background */
+
+.masthead,
+.masthead__inner-wrap,
 .greedy-nav {
-  background-color: #faf9f6;
+  background-color: #faf9f6 !important;
 }
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
