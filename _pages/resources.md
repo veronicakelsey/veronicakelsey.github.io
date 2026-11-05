@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Resources and Outreach"
 permalink: /resources/
 author_profile: true
 ---
