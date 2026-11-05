@@ -10,6 +10,11 @@
  *
 */
 $background-color: #faf9f6;
+$link-color: #7A4988;
+
+.masthead {
+  background-color: #faf9f6;
+}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
