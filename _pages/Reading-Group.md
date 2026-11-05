@@ -1,5 +1,5 @@
 ---
-title: Reading Group
+title: EDIA Reading Group
 permalink: /readinggroup/
 author_profile: true
 ---
