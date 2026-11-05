@@ -53,3 +53,17 @@ $link-color-visited: #7A4988;
 body {
   background-color: #faf9f6;
 }
+
+/* Force purple links in page content */
+
+.page__content a,
+.archive__item a,
+.page__content a:visited,
+.archive__item a:visited {
+  color: #7A4988 !important;
+}
+
+.page__content a:hover,
+.archive__item a:hover {
+  color: #7A4988 !important;
+}
