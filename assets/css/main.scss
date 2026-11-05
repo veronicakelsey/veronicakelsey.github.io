@@ -10,9 +10,7 @@
  *
 */
 $background-color: #faf9f6;
-$link-color: #7A4988;
-$link-color-hover: #7A4988;
-$link-color-visited: #7A4988;
+
 
 
 @import "vendor/breakpoint/breakpoint";
@@ -22,6 +20,12 @@ $link-color-visited: #7A4988;
 $link-color: #7A4988;
 $link-color-hover: #7A4988;
 $link-color-visited: #7A4988;
+
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background-color: #faf9f6 !important;
+}
 
 @import "mixins";
 @import "vendor/susy/susy";
