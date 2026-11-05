@@ -9,29 +9,22 @@
  *  - https://twitter.com/mmistakes
  *
 */
+
 $background-color: #faf9f6;
 
-.masthead,
-.masthead__inner-wrap,
-.greedy-nav {
-  background-color: #faf9f6 !important;
-}
+$link-color: #7A4988;
+$link-color-hover: #7A4988;
+$link-color-visited: #7A4988;
 
 @import "vendor/breakpoint/breakpoint";
 @import "variables";
 
+/* Keep the masthead and navigation off-white */
 .masthead,
 .masthead__inner-wrap,
 .greedy-nav {
-  background-color: #faf9f6 !important;
-  link-color: #7A4988;
+background-color: #faf9f6 !important;
 }
-
-
-/* Override link colours */
-$link-color: #7A4988;
-$link-color-hover: #7A4988;
-$link-color-visited: #7A4988;
 
 
 @import "mixins";
