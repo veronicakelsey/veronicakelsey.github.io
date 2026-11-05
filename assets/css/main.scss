@@ -17,13 +17,13 @@ $link-color-visited: #7A4988;
 
 @import "vendor/breakpoint/breakpoint";
 @import "variables";
-@import "mixins";
 
 /* Override link colours */
 $link-color: #7A4988;
 $link-color-hover: #7A4988;
 $link-color-visited: #7A4988;
 
+@import "mixins";
 @import "vendor/susy/susy";
 
 
