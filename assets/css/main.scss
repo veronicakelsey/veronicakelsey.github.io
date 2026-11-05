@@ -14,10 +14,6 @@ $link-color: #7A4988;
 $link-color-hover: #7A4988;
 $link-color-visited: #7A4988;
 
-/* Import theme */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-
 
 /* Custom header background */
 
