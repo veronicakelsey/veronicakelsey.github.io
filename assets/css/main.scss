@@ -11,8 +11,19 @@
 */
 $background-color: #faf9f6;
 $link-color: #7A4988;
+$link-color-hover: #7A4988;
+$link-color-visited: #7A4988;
 
+/* Import theme */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Header background colour */
 .masthead {
+  background-color: #faf9f6;
+}
+
+.greedy-nav {
   background-color: #faf9f6;
 }
 
